@@ -3,6 +3,10 @@
 This is a FastApi template that you can use when building a new FastAPI service.
 It incorporates a database and general structure to follow
 
+## MUST DO
+The project contains TODO.
+Search for the TODOs and do what they say to configure the project for your needs.
+
 ---
 
 ## Features - THIS IS AN EXAMPLE if it was for food
